@@ -1,4 +1,4 @@
-<img src="[https://github.com/lotaylor23/MS-CC_2025/tree/main/assets/images/loni-new-headshot-2048x1365.jpg](https://github.com/lotaylor23/MS-CC_2025/blob/main/assets/images/loni-new-headshot-2048x1365.jpg)" align="left" width="400" height="400">
+<img src=https://github.com/lotaylor23/MS-CC_2025/blob/main/assets/images/loni-new-headshot-2048x1365.jpg align="left" width="400" height="400">
 
 ### Loni Taylor, MS, PMP, CETL
 
